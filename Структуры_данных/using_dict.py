@@ -1,4 +1,5 @@
 # 'ab' - сокращение от 'a'ddress'b'ook
+
 ab = {'Swaroop': 'swaroop@swaroopch.com',
       'Larry': 'larry@wall.org',
       'Matsumoto': 'matz@ruby-lang.org',
